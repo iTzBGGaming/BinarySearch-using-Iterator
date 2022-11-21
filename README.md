@@ -3,6 +3,7 @@
 		public class LinkyListy {
 		public static void main(String []args) {
 		LinkedList linky = new LinkedList();
+		Scanner in = new Scanner(System.in);
 
 		//Add something in LinkedList
 		linky.add("Pisang");
