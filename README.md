@@ -1,4 +1,6 @@
 		import java.util.Iterator;
+		import java.util.Scanner;
+		import java.util.LinkedList;
 		
 		public class LinkyListy {
 		public static void main(String []args) {
